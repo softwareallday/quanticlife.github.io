@@ -1,0 +1,83 @@
+#menu {
+  position: fixed;
+  background-color:#24272b;
+}
+
+#parte1 {
+float: left;
+margin-left: 10px;
+width: 98%;
+}
+
+#parte2 {
+float: left;
+}
+
+#parte3 {
+background-image: linear-gradient(45deg, #24272b, #616a75);
+color: #dadde0;
+}
+
+#parte4 {
+margin-left: 10px;
+
+}
+
+#texto {
+margin-left: 10px;
+width: 98%;
+}
+
+#stl {
+background-image: url(img/textura1.gif);
+background-size: cover;
+
+}
+
+#bannerpg2 {
+background-image: url(img/fp2.gif);
+background-size: 100%;
+background-repeat: no-repeat;
+text-align: center;
+}
+
+#title {
+	background-color: #24272b;
+    filter:alpha(opacity=50);
+    opacity: 0.7;
+    -moz-opacity:0.5;
+    -webkit-opacity:0.7;
+	color: white;
+	
+}
+
+#bannerpg3 {
+background-image: url(img/fp3.gif);
+background-size: 100%;
+background-repeat: no-repeat;
+text-align: center;
+}
+
+#title3 {
+	background-color: #24272b;
+    filter:alpha(opacity=50);
+    opacity: 0.5;
+    -moz-opacity:0.5;
+    -webkit-opacity:0.9;
+	color: white;
+	
+}
+
+#partep3 {
+background-color: #24272b;
+color: #dadde0;
+}
+
+#grad {
+  background-image: linear-gradient(to bottom right, #24272b, #2c2f33, #383b40, #45494f, #5a5d63, #6d7075);
+}
+
+#title4 {
+	color: white;
+	text-align: center;
+}
